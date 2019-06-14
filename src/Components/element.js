@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import './App.css';
+import '../App.css';
 import Modal from './Modal';
 import Button from './Button';
 export default class Element extends Component {

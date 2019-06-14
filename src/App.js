@@ -1,9 +1,9 @@
 import React,{Component} from 'react';
 import './App.css';
-import List from './List';
-import Modal from './Modal';
-import Store from './Store';
-import Button from './Button.js';
+import List from './Components/List';
+import Modal from './Components/Modal';
+import Store from './Components/Store';
+import Button from './Components/Button.js';
 class App extends  Component{
 	constructor(props){
 			super(props);
